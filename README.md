@@ -7,6 +7,13 @@ The goal was to demonstrate practical data analysis skills using **MySQL** for d
 The analysis answers key business questions around revenue, units sold, regional performance, and salesperson contribution for a specific high-purity product segment.
 
 ---
+## Dashboard Preview 
+
+
+### Executive Overview
+
+![Dashboard Overview](dashboard_overview.png)
+
 
 ## Tools Used
 - **MySQL** – data storage, joins, and querying  
